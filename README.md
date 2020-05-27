@@ -6,3 +6,4 @@ In this I've used random number generator to allocate random number on basis of 
 Each user is allocated a recharge card & then he/she has to make a recharge of certain units(According to convenience).
 After units are consumed then he/she would be prompted by system to do further recharge or their connection would be cut down.
 Mysql Database is Database used at backend with Java Swing for designing.
+I've uploaded some of the screeenshots of my application.
